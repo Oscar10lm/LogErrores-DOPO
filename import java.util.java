@@ -17,11 +17,8 @@ class Producto {
 
     public int getId() { return id; }
     public String getNombre() { return nombre; }
-    public int getCantidad() { return cantidad; }
+
     
-    @Override
-    public String toString() {
-        return "Producto{id=" + id + ", nombre='" + nombre + "', cantidad=" + cantidad + "}";
     }
 }
 
