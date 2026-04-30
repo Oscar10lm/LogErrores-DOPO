@@ -1,0 +1,3 @@
+[UNEXPECTED ERROR]: / by zero
+java.lang.ArithmeticException: / by zero
+	at InventarioEjercicio.main(InventarioEjercicio.java:152)

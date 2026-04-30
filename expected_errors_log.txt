@@ -1,0 +1,2 @@
+[EXPECTED ERROR]: Inventario vacio. Se intento eliminar un producto de un inventario vacio.
+[EXPECTED ERROR]: Producto no encontrado. Se intento buscar o eliminar un producto que no existe.
